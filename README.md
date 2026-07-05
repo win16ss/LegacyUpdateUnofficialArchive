@@ -6,3 +6,5 @@ I do not own Legacy Update, nor was I affliated with it. The software is provide
 Also, you should probably stick to supported OSes like Windows 10 LTSC or Windows 11, because even if third party software protects you from vulnerabilities on a legacy operating system, it is still recommended to switch to a supported OS, maybe I should try Linux...
 
 For the full credits from the Legacy Update team, here's the link: https://legacyupdate.net/credits
+
+[Releases page](https://github.com/win16ss/LegacyUpdateUnofficialArchive/releases)
