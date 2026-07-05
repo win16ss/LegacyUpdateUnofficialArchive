@@ -1,4 +1,4 @@
-# LegacyUpdateUnofficialArchive
+# LegacyUpdate Unofficial Archive
 This repository is just a archive of LegacyUpdate. Feel free to contribute like adding older versions or newer versions just in case I miss out! LegacyUpdate official website: https://legacyupdate.net/
 
 I do not own LegacyUpdate, nor was I affliated with it. The software is provided "as is", without any warranty of any kind. This software/service is not affliated or endorsed by Microsoft.
